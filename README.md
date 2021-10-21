@@ -9,5 +9,5 @@ Big O - https://www.notion.so/junyeong-choi/Big-O-589401faac2a43c68327b259c3c0c1
 큐 (Queue) - https://www.notion.so/junyeong-choi/Queue-ad8bd9a407004ece83877e7ef6660a71 \
 스택 (Stack) - https://www.notion.so/junyeong-choi/Data-Structure-Algorithm-011f382f7a8a4c66b6a56c93ef57afde \
 해시 테이블 (Hash Table) - https://www.notion.so/junyeong-choi/Hash-Table-e2c2f47831bc43628e9013fabff2dd57 \
-트리 (Tree) - https://www.notion.so/junyeong-choi/Tree-9253cd8fe3b446c48b342b22c7ef2442 \ 
+트리 (Tree) - https://www.notion.so/junyeong-choi/Tree-9253cd8fe3b446c48b342b22c7ef2442 \
 힙 (Heap) - https://www.notion.so/junyeong-choi/Heap-855e746bd12c4384870a2a452c2a44d2 \
