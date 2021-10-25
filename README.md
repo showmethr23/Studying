@@ -12,6 +12,5 @@ Big O - https://www.notion.so/junyeong-choi/Big-O-589401faac2a43c68327b259c3c0c1
 트리 (Tree) - https://www.notion.so/junyeong-choi/Tree-9253cd8fe3b446c48b342b22c7ef2442 \
 힙 (Heap) - https://www.notion.so/junyeong-choi/Heap-855e746bd12c4384870a2a452c2a44d2 \
 
-### Sorting
-___
+## Sorting
 버블정렬 (Bubble Sort) - https://www.notion.so/junyeong-choi/bubble-sort-62ee99c3867c4307b50e8e80fa1afab3 \
