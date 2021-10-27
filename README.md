@@ -14,3 +14,4 @@ Big O - https://www.notion.so/junyeong-choi/Big-O-589401faac2a43c68327b259c3c0c1
 
 ## Sorting
 버블정렬 (Bubble Sort) - https://www.notion.so/junyeong-choi/bubble-sort-62ee99c3867c4307b50e8e80fa1afab3 \
+선택정렬 (Selection Sort) - https://www.notion.so/junyeong-choi/selection-sort-4b77f44fae4745cd94d615b856381427 \
