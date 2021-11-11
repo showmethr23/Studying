@@ -18,3 +18,4 @@ Big O - https://www.notion.so/junyeong-choi/Big-O-589401faac2a43c68327b259c3c0c1
 삽입정렬 (Insertion Sort) - https://www.notion.so/junyeong-choi/insertion-sort-5034ab4d65c04a24999391b898b94df9 \
 공간 복잡도 (Big O) - https://www.notion.so/junyeong-choi/2928ec4bd4ff4817929eeba848cb5f19 \
 재귀용법 (Recursive Call) - https://www.notion.so/junyeong-choi/Recursive-call-6908d9d36bf445948a4482f5a249e973 \
+동적 계획법 (Dynamic Programming) and 분할 정복 (Divide and Conquer) - https://www.notion.so/junyeong-choi/Dynamic-Programming-Divide-and-Conquer-748d5d65277d430e957e739364e882b0 \
