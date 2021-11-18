@@ -16,6 +16,7 @@ Big O - https://www.notion.so/junyeong-choi/Big-O-589401faac2a43c68327b259c3c0c1
 버블정렬 (Bubble Sort) - https://www.notion.so/junyeong-choi/bubble-sort-62ee99c3867c4307b50e8e80fa1afab3 \
 선택정렬 (Selection Sort) - https://www.notion.so/junyeong-choi/selection-sort-4b77f44fae4745cd94d615b856381427 \
 삽입정렬 (Insertion Sort) - https://www.notion.so/junyeong-choi/insertion-sort-5034ab4d65c04a24999391b898b94df9 \
+퀵 정렬 (Quick Sort) - https://www.notion.so/junyeong-choi/quick-sort-ca35d8a70a2f483aa17197af833e15da \
 공간 복잡도 (Big O) - https://www.notion.so/junyeong-choi/2928ec4bd4ff4817929eeba848cb5f19 \
 재귀용법 (Recursive Call) - https://www.notion.so/junyeong-choi/Recursive-call-6908d9d36bf445948a4482f5a249e973 \
 동적 계획법 (Dynamic Programming) - https://www.notion.so/junyeong-choi/Dynamic-Programming-Divide-and-Conquer-748d5d65277d430e957e739364e882b0 \
