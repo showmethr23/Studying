@@ -21,4 +21,7 @@ Big O - https://www.notion.so/junyeong-choi/Big-O-589401faac2a43c68327b259c3c0c1
 병합정렬 (Merge Sort) - https://www.notion.so/junyeong-choi/merge-sort-3db2ce384f50462f9c6f29b77c50e0a1 \
 공간 복잡도 (Big O) - https://www.notion.so/junyeong-choi/2928ec4bd4ff4817929eeba848cb5f19 \
 재귀용법 (Recursive Call) - https://www.notion.so/junyeong-choi/Recursive-call-6908d9d36bf445948a4482f5a249e973 \
-동적 계획법 (Dynamic Programming) - https://www.notion.so/junyeong-choi/Dynamic-Programming-Divide-and-Conquer-748d5d65277d430e957e739364e882b0 \
+동적 계획법 (Dynamic Programming) - https://www.notion.so/junyeong-choi/Dynamic-Programming-Divide-and-Conquer-748d5d65277d430e957e739364e882b0
+
+## Search
+이진 탐색 (Binary Search) - https://www.notion.so/junyeong-choi/Binary-Search-d89479b48c6a422f8cc1b8d26b5c68be \
