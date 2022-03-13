@@ -31,3 +31,4 @@ Big O - https://www.notion.so/junyeong-choi/Big-O-589401faac2a43c68327b259c3c0c1
 ## Graph
 그래프 (Graph) - https://www.notion.so/junyeong-choi/Graph-936f7c6e87404706a1bedba29a799ad5 \
 너비우선탐색 (Breadth First Search) - https://www.notion.so/junyeong-choi/Breadth-First-Search-21d33ae83891484bb70ebc90709fe1a9 \
+깊이우선탐색 (Depth First Search) - https://www.notion.so/junyeong-choi/Depth-First-Search-203e7014604c452f99e914b91065cd34 \
